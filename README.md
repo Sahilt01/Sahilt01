@@ -1,4 +1,4 @@
-# Welcome to my Data Analytics & Data Science Portfolio! 👋
+# Welcome to my Data Analytics & Machine Learning Portfolio! 👋
 
 I'm Sahil Tomar, an Aspiring Data Analyst → ML/AI Engineer. I turn raw data into decisions and build scrappy end‑to‑end prototypes (ingest → clean → analyze → model → visualise). Passionate about practical, business‑first analytics.
 
