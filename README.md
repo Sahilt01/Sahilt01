@@ -5,7 +5,7 @@ I'm Sahil Tomar, an Aspiring Data Analyst → ML/AI Engineer. I turn raw data in
 ### 🔧 Programming Languages & Tools
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - **SQL** (Data manipulation, joins, subqueries)
-- **Power BI** (Interactive dashboards, DAX, data modeling)
+- **Power BI** (Interactive dashboards, data modeling)
 - **Excel** (Pivot tables, formulas, reporting)
 - **🤝 Teamwork & Collaboration**:
   - Experience working in collaborative environments 
