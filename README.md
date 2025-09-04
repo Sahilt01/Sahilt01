@@ -32,7 +32,7 @@ I'm Sahil Tomar, an Aspiring Data Analyst → ML/AI Engineer. I turn raw data in
 
 **📊 Data Analysis**
 
-### ** Loan Portfolio Performance Dashboard (SQL + Power BI)**
+### **Loan Portfolio Performance Dashboard (SQL + Power BI)**
 - **Repository**:[Dashboard](https://github.com/Sahilt01/loan-portfolio-performance-dashboard)
 
 ## 📚 Currently Learning
