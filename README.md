@@ -20,19 +20,19 @@ I'm Sahil Tomar, an Aspiring Data Analyst → ML/AI Engineer. I turn raw data in
 ## 🚀 Projects
 **🤖 Machine Learning**
 
-### **Predictive Analytics for Student Performance — classification to flag at‑risk students early. 
+### **Predictive Analytics for Student Performance — classification to flag at‑risk students early.** 
 - **Repository**:[Predictive Analytics](https://github.com/Sahilt01/Predictive-Analytics-for-Student-Performance)
   
-### **Age & Gender Detection (OpenCV) — classical CV pipeline from webcam/images. 
+### **Age & Gender Detection (OpenCV) — classical CV pipeline from webcam/images.**
 - **Repository**:[Age & Gender Detection ](https://github.com/Sahilt01/AGE-GENDER-Detection)
  
-### **NLP Harmony Summarizer — abstractive/extractive text summarization experiments. 
+### **NLP Harmony Summarizer — abstractive/extractive text summarization experiments.**
 - **Repository**: [Text Summarizer](https://github.com/Sahilt01/NLP-Harmony-summarizer)
 
 
 **📊 Data Analysis**
 
-### ** Loan Portfolio Performance Dashboard (SQL + Power BI)
+### ** Loan Portfolio Performance Dashboard (SQL + Power BI)**
 - **Repository**:[Dashboard](https://github.com/Sahilt01/loan-portfolio-performance-dashboard)
 
 ## 📚 Currently Learning
