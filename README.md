@@ -19,6 +19,7 @@ I'm Sahil Tomar, an Aspiring Data Analyst → ML/AI Engineer. I turn raw data in
 
 ## 🚀 Projects
 **Machine Learning**
+
 ### **Predictive Analytics for Student Performance — classification to flag at‑risk students early. 
 - **Repository**:[Predictive Analytics](https://github.com/Sahilt01/Predictive-Analytics-for-Student-Performance)
 
@@ -28,9 +29,11 @@ I'm Sahil Tomar, an Aspiring Data Analyst → ML/AI Engineer. I turn raw data in
 ### **NLP Harmony Summarizer — abstractive/extractive text summarization experiments. 
 - **Repository**: [Text Summarizer](https://github.com/Sahilt01/NLP-Harmony-summarizer)
 
+ 
 **Data Analysis**
 ### ** Loan Portfolio Performance Dashboard (SQL + Power BI)
-**Repository**:[Dashboard](https://github.com/Sahilt01/loan-portfolio-performance-dashboard)
+--**Repository**:[Dashboard](https://github.com/Sahilt01/loan-portfolio-performance-dashboard)
+
 ## 📚 Currently Learning
 
 - **Data Analyst Associate Certification (DataCamp)**: Strengthening key foundations like exploratory data analysis, data manipulation with pandas, data visualization, SQL, and insight communication.
