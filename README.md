@@ -29,10 +29,10 @@ I'm Sahil Tomar, an Aspiring Data Analyst → ML/AI Engineer. I turn raw data in
 ### **NLP Harmony Summarizer — abstractive/extractive text summarization experiments. 
 - **Repository**: [Text Summarizer](https://github.com/Sahilt01/NLP-Harmony-summarizer)
 
- 
+- 
 **Data Analysis**
 ### ** Loan Portfolio Performance Dashboard (SQL + Power BI)
---**Repository**:[Dashboard](https://github.com/Sahilt01/loan-portfolio-performance-dashboard)
+- **Repository**:[Dashboard](https://github.com/Sahilt01/loan-portfolio-performance-dashboard)
 
 ## 📚 Currently Learning
 
