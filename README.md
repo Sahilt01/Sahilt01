@@ -27,7 +27,7 @@ I'm Sahil Tomar, an Aspiring Data Analyst → ML/AI Engineer. I turn raw data in
 - **Repository**:[Age & Gender Detection ](https://github.com/Sahilt01/AGE-GENDER-Detection)
  
 ### **NLP Harmony Summarizer — abstractive/extractive text summarization experiments.**
-- **Repository**: [Text Summarizer](https://github.com/Sahilt01/NLP-Harmony-summarizer)
+- **Repository**: [Text Summarizer](https://github.com/Sahilt01/text_summarization)
 
 
 **📊 Data Analysis**
